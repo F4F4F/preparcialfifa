@@ -33,7 +33,12 @@ H2 Database
 SQL: 
 
 Veo *_id
+
 ↓
+
 ¿A qué tabla apunta?
+
 ↓
+
 ¿esa tabla fue insertada antes?
+
