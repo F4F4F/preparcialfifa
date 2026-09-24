@@ -10,17 +10,22 @@
 -------------------------------------------
 
 ¿Qué entidad quiero DEVOLVER?
+
         ↓
 En ese Repository empiezo
+
         ↓
-¿Cómo camino desde esa entidad
-hasta el atributo por el que quiero filtrar?
+¿Cómo camino desde esa entidad hasta el atributo por el que quiero filtrar?
 
 <img width="546" height="432" alt="image" src="https://github.com/user-attachments/assets/2f379eed-fc3d-4be8-aeaa-00c0f6e576b7" />
 
 
 SPRING WEB
+
 LOMBOK
+
 Spring data jpa
+
 PostgreSQL Driver
+
 H2 Database
