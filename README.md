@@ -1,4 +1,3 @@
-COPIAR EL proyect properties
 -------------------------------
 1. Busco una columna que diga FK.
 2. Miro EN QUÉ TABLA está esa FK.
@@ -16,3 +15,5 @@ En ese Repository empiezo
         ↓
 ¿Cómo camino desde esa entidad
 hasta el atributo por el que quiero filtrar?
+
+<img width="546" height="432" alt="image" src="https://github.com/user-attachments/assets/2f379eed-fc3d-4be8-aeaa-00c0f6e576b7" />
